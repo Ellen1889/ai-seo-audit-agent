@@ -89,7 +89,7 @@ Transform any website URL into a professional SEO audit report in under 2 minute
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/ai-seo-audit-agent.git
+git clone https://github.com/Ellen1889/ai-seo-audit-agent.git
 cd ai-seo-audit-agent
 
 # Run automated setup
@@ -376,7 +376,7 @@ Contributions are welcome! Here's how you can help:
 
 ```bash
 # Fork and clone the repository
-git clone https://github.com/YOUR_USERNAME/ai-seo-audit-agent.git
+git clone https://github.com/Ellen1889/ai-seo-audit-agent.git
 cd ai-seo-audit-agent
 
 # Create a virtual environment
@@ -449,9 +449,9 @@ Inspired by the [AI SEO Audit Team tutorial](https://www.theunwindai.com/p/build
 Need help? Here's how to get it:
 
 - 📖 **Documentation**: Read the [full README](README.md)
-- 🐛 **Bug reports**: [Open an issue](https://github.com/YOUR_USERNAME/ai-seo-audit-agent/issues)
-- 💡 **Feature requests**: [Open an issue](https://github.com/YOUR_USERNAME/ai-seo-audit-agent/issues)
-- ❓ **Questions**: [Start a discussion](https://github.com/YOUR_USERNAME/ai-seo-audit-agent/discussions)
+- 🐛 **Bug reports**: [Open an issue](https://github.com/Ellen1889/ai-seo-audit-agent/issues)
+- 💡 **Feature requests**: [Open an issue](https://github.com/Ellen1889/ai-seo-audit-agent/issues)
+- ❓ **Questions**: [Start a discussion](https://github.com/Ellen1889/ai-seo-audit-agent/discussions)
 
 ---
 
@@ -459,7 +459,7 @@ Need help? Here's how to get it:
 
 If this project helped you, please consider giving it a star! ⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/ai-seo-audit-agent&type=Date)](https://star-history.com/#YOUR_USERNAME/ai-seo-audit-agent&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Ellen1889/ai-seo-audit-agent&type=Date)](https://star-history.com/#Ellen1889/ai-seo-audit-agent&Date)
 
 ---
 
