@@ -1,0 +1,11 @@
+# AI SEO Audit Agent - Python Dependencies
+# Install all packages with: pip install -r requirements.txt
+
+# Google Gemini AI API
+google-generativeai>=0.8.0
+
+# HTTP requests for Jina AI and SerpAPI
+requests>=2.31.0
+
+# Environment variable management
+python-dotenv>=1.0.0

@@ -1,0 +1,67 @@
+# AI SEO Audit Agent - Git Ignore File
+# These files will NOT be uploaded to GitHub
+
+# Environment variables - NEVER upload API keys!
+.env
+
+# Claude Code settings (may contain sensitive info)
+.claude/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Generated reports (optional - you might want to keep these)
+# Uncomment the line below if you don't want to upload generated reports
+# reports/*.md
+
+# Logs
+*.log
+
+# Test files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
